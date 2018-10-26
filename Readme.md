@@ -1,0 +1,1 @@
+Test to check the Git connection from local system
